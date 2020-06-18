@@ -1,2 +1,4 @@
 # matlab-classes
-This repo contains matlab code created in a couple courses at Iowa State University regarding Numerical Analysis.
+<ul><li>This repo contains MATLAB functions and demos regarding Numerical Analysis as taught at Iowa State University.</li>
+<li>No solutions to homework are contained in these files.</li></ul>
+
